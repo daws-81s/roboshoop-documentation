@@ -55,7 +55,7 @@ We need to setup a new service in systemd so systemctl can manage this service
 Setup SystemD Shipping Service
 
 ```
-/etc/systemd/system/shipping.service
+vim /etc/systemd/system/shipping.service
 ```
 
 ```
